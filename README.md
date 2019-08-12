@@ -1,3 +1,3 @@
 # Pandas_Project
 
-Analyze the district-wide standardized test results, aggregate the data and showcase obvious trends in school performance using pandas library and Jupyter Notebook.
+Analyzed the district-wide standardized test results, aggregated the data and showcased obvious trends in school performance using pandas library and Jupyter Notebook.
